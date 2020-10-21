@@ -1,60 +1,25 @@
-# Hacktoberfest2020
+# Hacktoberfest2020 Repositories Archived 
 
-Make your first Pull Request and earn a free tee from GitHub!
+## Reason
+### Hacktoberfest Team 
+( https://github.com/OpenSouceCode/Hacktoberfest2020/issues/302 )
 
-![Hacktoberfest 2020](osc_hacktoberfest2020.png)
+Hi there,
 
-# Welcome to GitHub!
+Thank you for your interest in Hacktoberfest and in helping others make their first contributions to open source.
 
-## This project is perfect for your first pull request
+While we agree that it's important to help others, this repository does not do this in a way that is in line with the Hacktoberfest values. Please read the part that talks about high-quality contributions to understand why we are reaching out and taking action. Due to this, we've added this repository to the list of excluded repositories which means pull requests here will not count toward Hacktoberfest 2020.
 
-## Instructions-
+This is not a DigitalOcean decision, it's one that is inspired by the community of maintainers and contributors who all agree that quality is more important than quantity when it comes to engagement in the Open Source community. The values remind us to shift the focus from contributions to repositories that encourage folks to quickly create and gain a pull request to contributions that will help people level-up their skills and contribute to open-source projects that are in need of help.
 
-- Fork this Repository using the button at the top
-- Clone your forked repository to your pc
-- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your profile image in `static/images/`
-- Add your profile data in `content/participant/`
-- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
-- Create a pull request
-- Star this repository
+If you feel that this repository is an effective learning resource, we encourage you to keep running it since a core part of the aim for Hacktoberfest is to encourage new folks to get involved with open-source.
 
-# How to make your first Pull Request
+However, if you are interested in having contributions to this repo count toward Hacktoberfest we encourage you to take a look at this list of Hacktoberfest issues for inspiration and make the necessary changes to focus on enabling people to make meaningful contributions to open source projects.
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+If you have any questions about this or participating in Hacktoberfest, please contact our team via email hacktoberfest@digitalocean.com or join our community Discord server.
 
-## 1. Add your profile picture to the folder
+Happy Hacking,
+The Hacktoberfest Team
 
-Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
+Hacktoberfest is presented by DigitalOcean, Intel and DEV.
 
-```
-static/images/<YOUR-USERNAME>.png
-```
-
-_Be aware, this picture will be displayed on the yearbook!_
-
-## 2. Add your profile information
-
-Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
-
-```
-content/participant/<YOUR-USERNAME>.md/
-```
-
-Copy the next template into your file, delete the boilerplate data and fill the information with yours.
-
-```
----
-name: FULLNAME-OR-NICKNAME # No longer than 28 characters
-institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
-image: <YOUR-USERNAME>.png # Name and extension of your profile picture(ex. <YOUR-USERNAME>.png) The picture must be squared and 544px on width and height.
-quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
-github: YOUR-GITHUB-USERNAME
----
-```
-
-_Do not use special characters in the template above._
-
-## 4. Wait for Pull Request to merge
-
-## 5. Celebrate - you've done your first pull request!!
